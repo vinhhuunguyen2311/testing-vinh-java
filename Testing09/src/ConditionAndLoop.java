@@ -82,18 +82,11 @@ public class ConditionAndLoop {
         System.out.print("Mời bạn nhập số nguyên cho bảng cửu chương:  ");
         int n = sc.nextInt();
         int multi = 0;
-        for (int i =1; i<=10;i= i+1){
-            multi = n*i;
-            System.out.println(n +" * "+ i + " = " + multi);
+        for (int i =1; i<=10;i= i+1) {
+            multi = n * i;
+            System.out.println(n + " * " + i + " = " + multi);
 
         }
-
-
-
-
-
-
-
         sc.close(); // đóng Scanner để tránh rò rỉ tài nguyên
     }
 }
