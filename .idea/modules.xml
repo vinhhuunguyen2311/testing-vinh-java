@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayLoop/ArrayLoop.iml" filepath="$PROJECT_DIR$/ArrayLoop/ArrayLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testing-vinh-java.iml" filepath="$PROJECT_DIR$/.idea/testing-vinh-java.iml" />
     </modules>
   </component>
