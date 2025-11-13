@@ -165,6 +165,7 @@ public class Function0911 {
         int[] arr = {0, 2, 5, 7, 9};
         int[] result9= findTwoSum(arr, 9);
         System.out.println(Arrays.toString(result9));
+        System.out.println(Arrays.toString(result9));
         
 /*
         System.out.println("Tổng số chẵn từ 1 đến 10: " + sumEven(10));
